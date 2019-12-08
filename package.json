@@ -16,7 +16,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "gitlab": "^12.1.0",
     "log4js": "^6.1.0"
   },
   "devDependencies": {
